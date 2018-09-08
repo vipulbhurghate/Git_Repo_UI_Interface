@@ -22,7 +22,7 @@ Examples:
 |mysearachText    |myrequiredBrand |myitemNumber|myitemSize|
 |Shirts for Men   |Raymond         |7           |40        |
 |Shirts for Female|Wills Lifestyle |12          |M         |
-|Shoes for Men    |Adidas          |5           |8         |
+|Shoes for Men    |Adidas          |8           |40        |
 
 @PostCondition
 Scenario:Precondition-Closing the application URL and browser
